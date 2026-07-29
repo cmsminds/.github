@@ -1,8 +1,8 @@
 <h2>cmsMinds, A WordPress & WooCommerce Development Agency</h2>
  
-We build, migrate, and maintain WordPress and WooCommerce websites for businesses that need reliable performance, security, and growth. Our 40+ person team works across custom theme and plugin development, WooCommerce store builds, platform migrations from Drupal, HubSpot, and legacy CMS platforms, and ongoing WordPress maintenance and support.
+We build, migrate, and maintain <a href="https://cmsminds.com/wordpress/development/">WordPress</a> and <a href="https://cmsminds.com/wordpress/development/">WooCommerce</a> websites for businesses that need reliable performance, security, and growth. Our 40+ person team works across custom theme and plugin development, WooCommerce store builds, platform migrations from Drupal, HubSpot, and legacy CMS platforms, and ongoing WordPress maintenance and support.
  
-Founded in 2010 and headquartered in Raleigh, NC with a development center in Ahmedabad, India, we bring deep technical knowledge to every project, whether it's a mid-market redesign or a complex enterprise build. We hold <a href="https://cmsminds.com/wordpress-pro-partner/">Automattic Agency Pro Partner</a> status across WordPress.com, WooCommerce, Jetpack, and Pressable.
+Founded in 2010 and headquartered in Raleigh, NC, with a development center in Ahmedabad, India, we bring deep technical knowledge to every project, whether it's a mid-market redesign or a complex enterprise build. We hold <a href="https://cmsminds.com/wordpress-pro-partner/">Automattic Agency Pro Partner</a> status across WordPress.com, WooCommerce, Jetpack, and Pressable.
  
 Our work spans industries including manufacturing, healthcare, SaaS, and nonprofit, with a focus on delivering sites that perform well for both users and search engines.
  
