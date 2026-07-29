@@ -6,7 +6,8 @@ Founded in 2010 and headquartered in Raleigh, NC with a development center in Ah
  
 Our work spans industries including manufacturing, healthcare, SaaS, and nonprofit, with a focus on delivering sites that perform well for both users and search engines.
  
-Have a WordPress project in mind? <a href="https://cmsminds.com/contact/" target="_blank" rel="noopener noreferrer">Let's talk about what you need</a>.
+<h3>Have a WordPress project in mind? Let's talk about what you need.</h3>h3>
+ 
 <a href="https://cmsminds.com/contact/" target="_blank" rel="noopener noreferrer">
     <img width="846" height="148" alt="contact-us-cmsminds" src="https://github.com/user-attachments/assets/b113ddc5-b127-4f83-aa87-77e6512eb085" />
 </a>
