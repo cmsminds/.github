@@ -1,4 +1,4 @@
-<h2>cmsMinds, A WordPress & WooCommerce Development Agency</h2>h2>
+<h2>cmsMinds, A WordPress & WooCommerce Development Agency</h2>
  
 We build, migrate, and maintain WordPress and WooCommerce websites for businesses that need reliable performance, security, and growth. Our 40+ person team works across custom theme and plugin development, WooCommerce store builds, platform migrations from Drupal, HubSpot, and legacy CMS platforms, and ongoing WordPress maintenance and support.
  
